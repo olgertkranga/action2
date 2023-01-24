@@ -33,6 +33,9 @@ public class AnnotationsTest {
 	//	MockitoAnnotations.initMocks(this);
 	//}
 	
+	/***
+	 * 4test	
+	 */
 	@Test
 	public void demoStubWithMockito(){
 		
